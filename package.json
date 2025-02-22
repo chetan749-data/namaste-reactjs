@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetan749-data/namaste-reactjs.git"
+  },
+  "keywords": [
+    "React",
+    "project",
+    "learning"
+  ],
+  "author": "Chetan kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetan749-data/namaste-reactjs/issues"
+  },
+  "homepage": "https://github.com/chetan749-data/namaste-reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  }
+}
